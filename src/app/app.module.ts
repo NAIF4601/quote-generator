@@ -6,7 +6,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { QuoteGeneratorComponent } from './quote-generator/quote-generator.component';
 import { QuoteService } from './quote.service'; 
-
 @NgModule({
   declarations: [
     AppComponent,
